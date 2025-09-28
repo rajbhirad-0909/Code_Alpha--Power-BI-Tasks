@@ -1,0 +1,43 @@
+# CodeAlpha_Tasks
+
+This repository contains my internship projects completed during the **CodeAlpha Power BI Internship**.  
+Each project focuses on solving real-world business problems using Power BI dashboards, DAX measures, and interactive reports.  
+
+---
+
+## 📊 Projects
+
+### 1. Financial Health Dashboard
+- **Objective**: Analyze an organization’s financial health with insights into income, expenses, profitability, and cash flows.  
+- **Key Features**:
+  - Income statement, balance sheet, and cash flow visualizations  
+  - Profitability trends over time  
+  - Forecasting for budgeting and planning  
+- **Files**:  
+  - `Financial_Dashboard.pbix`  
+  - `Financial_Dashboard.pdf`  
+
+---
+
+### 2. HR Analytics Dashboard
+- **Objective**: Analyze and optimize HR processes including recruitment, attrition, and workforce satisfaction.  
+- **Key Features**:
+  - Attrition by department, tenure, and job role  
+  - Employee satisfaction and performance analysis  
+  - Predictive analytics for hiring needs  
+- **Files**:  
+  - `HR_Analytics.pbix`  
+  - `HR_Analytics.pdf`  
+
+---
+
+### 3. Real Estate Market Trends Dashboard
+- **Objective**: Track property price trends, rental yields, and identify market hotspots.  
+- **Key Features**:
+  - Price per sq. ft. trends and rental yield analysis  
+  - Demand vs. supply tracking across cities  
+  - Interactive maps showing hotspots  
+  - Predictive insights for investment planning  
+- **Files**:  
+  - `RealEstate_Trends.pbix`  
+  - `RealEstate_Trends.pdf`  
